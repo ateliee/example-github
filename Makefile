@@ -3,4 +3,4 @@ openapi-docs:
 	docker run --rm -v "${PWD}:/local" openapitools/openapi-generator-cli generate \
 		-i local/openapi/openapi.yaml \
 		-o local/docs/api \
-		-g asciidoc
+		-g html2
