@@ -10,4 +10,4 @@ github pageで表示されます。
 各種ドキュメント
 -------------
 
-* [APIドキュメント](api/index.html)
+* [APIドキュメント](api)
