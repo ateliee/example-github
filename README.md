@@ -4,5 +4,5 @@ docの作成
 ---------
 
 ```shell
-make openapi
+make openapi-docs
 ```
